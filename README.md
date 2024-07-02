@@ -6,9 +6,9 @@ This uses publicly available lists of IP ranges, provided by most providers, and
 This was heavily inspired by [Project Discovery's cdncheck](https://github.com/projectdiscovery/cdncheck).
 
 ## 
-Ranges are updated every 60 Minutes and deployed [here](https://github.com/schniggie/cdn-ranges/tree/main/output).
+Ranges are updated every 60 Minutes and deployed [here](https://github.com/YujiKakeya/cdn-ranges/tree/main/output).
 
-[![Node.js CI](https://github.com/schniggie/cdn-ranges/actions/workflows/node.js.yml/badge.svg)](https://github.com/schniggie/cdn-ranges/actions/workflows/node.js.yml)
+[![Node.js CI](https://github.com/YujiKakeya/cdn-ranges/actions/workflows/node.js.yml/badge.svg)](https://github.com/YujiKakeya/cdn-ranges/actions/workflows/node.js.yml)
 
 ## CDN Providers
 Provider | ASN or Public List
@@ -28,7 +28,6 @@ StackPath | "AS12989", "AS18607", "AS20446", "AS33438"
 StormWall | "AS59796"
 Sucuri | "AS30148"
 X4B | "AS136165"
-Linode | "AS63949"
 
 
 If a provider is missing, please open an issue with a link to their IP ranges or ASN
